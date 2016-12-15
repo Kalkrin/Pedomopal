@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PedomoPal</string>
+    <string name="title_activity_view_history">ViewHistoryActivity</string>
+</resources>
